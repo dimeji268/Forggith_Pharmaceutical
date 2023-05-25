@@ -1,6 +1,5 @@
 # Forggith_Pharmaceutical
 
-# Forggith_Pharmaceutical
 
 ## Introduction:
 Forggith Pharmaceuticals (Forggith) is a fictitious Pharmaceutical Manufacturing company based in Germany. As a Manufacturing company, they produce medical drugs which get to the consumers through their Distributors.
